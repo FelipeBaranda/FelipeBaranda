@@ -1,25 +1,23 @@
-Olá, eu sou **Luis Felipe Baranda**
+## Olá, eu sou Luis Felipe Baranda 👋
 
+
+```ruby 
 class Programmer
 
 	def initialize() 
+```
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/luis-felipe-baranda-ab1790240/)
+[![instagrm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felbaranda/)
+
+[![FelipeBaranda's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebaranda&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+# Aprendendo as Tecnologias
+<div style="display: inlin_black"> 
+<img aligo="center" alt= "ruby" src="https://img.shields.io/badge/Ruby on Rails-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+<img aligo="center" alt= "ruby" src="https://img.shields.io/badge/-PostgreSQL-0077B5?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img aligo="center" alt= "html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img aligo="center" alt= "css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 
 
-
-
-### Hi there 👋
-
-<!--
-**FelipeBaranda/FelipeBaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
